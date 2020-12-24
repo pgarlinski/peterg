@@ -22,6 +22,9 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
+# I modified this slightly to fit what I needed for information.
+
+
 <#PSScriptInfo
 .VERSION 1.2.1
 .GUID 1c26142a-da43-4125-9d70-97555cbb1752
